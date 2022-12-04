@@ -2,6 +2,8 @@
 title: Notes on Physics
 cms_exclude: true
 
+show_date: false
+
 # View.
 #   1 = List
 #   2 = Compact
