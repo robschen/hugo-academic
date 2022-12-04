@@ -1,7 +1,7 @@
 ---
 title: Notes on Physics
+summary: A collection of studying notes on theoretical physics.
 cms_exclude: true
-
 show_date: false
 
 # View.
