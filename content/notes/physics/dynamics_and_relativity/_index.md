@@ -3,7 +3,7 @@
 title: Dynamics and Relativity
 
 # Page summary for search engines.
-summary: Blah, blah, blah...
+summary: My solution on example sheets of dynamics and relativity.
 
 # Book page type (do not modify).
 type: book
