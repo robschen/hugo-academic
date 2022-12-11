@@ -22,9 +22,7 @@ $$
 Taking the derivative of the original equation, we get
 {{< math >}}
 $$
-\begin{equation}
 \frac{\mathrm d \mathbf{\ddot{r}}}{\mathrm d t} =  \lambda\mathbf{r} \times \mathbf{\ddot{r}}.
-\end{equation}
 $$
 {{< math >}}
 Dot product equation (1) with $\mathbf{\ddot{r}}$, we get
@@ -45,9 +43,7 @@ $$
 This gives us 
 {{< math >}}
 $$
-\begin{equation}
 \mathbf{\dot{r}} = v\mathbf{\hat{r}}.
-\end{equation}
 $$
 {{< math >}}
 By integrating equation (2), we will get the trajectory is 
@@ -74,9 +70,7 @@ $$
 as well as 
 {{< math >}}
 $$
-\begin{equation}
 r^2 = v^2(t-t_0)^2 + r_0^2,
-\end{equation}
 $$
 {{< math >}}
 we have
@@ -88,33 +82,25 @@ $$
 Thus, we get 
 {{< math >}}
 $$
-\begin{equation}
 \mathbf{r} \cdot \mathbf{\dot{r}} = v^2(t-t_0).
-\end{equation}
 $$
 {{< math >}}
 Considering that
 {{< math >}}
 $$
-\begin{equation}
 |\mathbf{\ddot{r}}| = \lambda rv \sin\theta,
-\end{equation}
 $$
 {{< math >}}
 and 
 {{< math >}}
 $$
-\begin{equation}
 \mathbf{r} \cdot \mathbf{\dot{r}} = rv \cos\theta,
-\end{equation}
 $$
 {{< math >}}
 Combining equation (5) and (6), we find 
 {{< math >}}
 $$
-\begin{equation}
 |\mathbf{\ddot{r}}|^2 + (\lambda \mathbf{r} \cdot \mathbf{\dot{r}}) = \lambda^2r^2v^2.
-\end{equation}
 $$
 {{< math >}}
 By subsituting equation (7) with (3) and (4), we finally get
