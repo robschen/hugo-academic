@@ -36,6 +36,7 @@ $$
 $$
 {{< math >}}
 Dot product equation (1) with $\mathbf{\ddot{r}}$, we get
+{{< math >}}
 $$
 \mathbf{\ddot{r}} \cdot \frac{\mathrm d \mathbf{\ddot{r}}}{\mathrm d t} = 0,
 $$
