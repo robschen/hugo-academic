@@ -1,6 +1,6 @@
 ---
 title: Problem 5
-summary: A particle of mass $m$, charge $q$ and position $\mathbf{x}$
+summary: A particle of mass $m$, charge $q$ and position $\mathbf{x}$ ...
 type: book
 ---
 
