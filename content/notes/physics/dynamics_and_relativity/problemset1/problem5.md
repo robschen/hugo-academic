@@ -4,7 +4,7 @@ summary: A particle of mass $m$, charge $q$ and position $\mathbf{x}$ ...
 type: book
 ---
 
-# Solution
+## Solution
 
 According to Newton's second law of motion, the equation of motion is written as
 {{< math >}}
