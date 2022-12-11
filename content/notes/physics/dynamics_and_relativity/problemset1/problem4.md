@@ -5,6 +5,7 @@ type: book
 ---
 
 ## Solution
+
 First, we dot product $\mathbf{\dot{r}}$ onto both sides of the given equation, we get 
 {{< math >}}
 $$
@@ -33,6 +34,7 @@ $$
 which means the changing of acceleration is perpendicular to the acceleration. Therefore $|\mathbf{\ddot{r}}| = a$ is also a constant.
 
 ### Subtask a
+
 If $\mathbf{\dot{r}}$ is parallel to $\mathbf{r}$, then
 {{< math >}}
 $$
@@ -53,6 +55,7 @@ $$
 {{< math >}}
 
 ### Subtask b
+
 Taking the derivative of $\mathbf{r} \cdot \mathbf{r}$, we get
 {{< math >}}
 $$
