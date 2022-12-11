@@ -32,8 +32,7 @@ $$
 {{< math >}}
 which means the changing of acceleration is perpendicular to the acceleration. Therefore $|\mathbf{\ddot{r}}| = a$ is also a constant.
 
-## Subtask (a)
-
+## Subtask a
 If $\mathbf{\dot{r}}$ is parallel to $\mathbf{r}$, then
 {{< math >}}
 $$
@@ -53,8 +52,7 @@ $$
 $$
 {{< math >}}
 
-## Subtask (b)
-
+## Subtask b
 Taking the derivative of $\mathbf{r} \cdot \mathbf{r}$, we get
 {{< math >}}
 $$
