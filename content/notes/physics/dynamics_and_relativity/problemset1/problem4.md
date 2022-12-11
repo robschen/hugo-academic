@@ -16,31 +16,23 @@ ph2
 
 ## Solution
 First, we dot product $\mathbf{\dot{r}}$ onto both sides of the given equation, we get 
-{{< math >}}
 $$
 \mathbf{\ddot{r}} \cdot \mathbf{\dot{r}} = 0.
 $$
-{{< math >}}
 which means the acceleration is perpendicular to the velocity. Therefore $|\mathbf{\dot{r}}| = v$ is a constant.
 
 Then we dot product $\mathbf{r}$ onto both sides of the given equation, we get
-{{< math >}}
 $$
 \mathbf{\ddot{r}} \cdot \mathbf{r} = 0.
 $$
-{{< math >}}
 Taking the derivative of the original equation, we get
-{{< math >}}
 $$
 \frac{\mathrm d \mathbf{\ddot{r}}}{\mathrm d t} =  \lambda\mathbf{r} \times \mathbf{\ddot{r}}.
 $$
-{{< math >}}
 Dot product equation (1) with $\mathbf{\ddot{r}}$, we get
-{{< math >}}
 $$
 \mathbf{\ddot{r}} \cdot \frac{\mathrm d \mathbf{\ddot{r}}}{\mathrm d t} = 0,
 $$
-{{< math >}}
 which means the changing of acceleration is perpendicular to the acceleration. Therefore $|\mathbf{\ddot{r}}| = a$ is also a constant.
 
 ## Fme
