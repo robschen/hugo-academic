@@ -35,80 +35,56 @@ $$
 $$
 which means the changing of acceleration is perpendicular to the acceleration. Therefore $|\mathbf{\ddot{r}}| = a$ is also a constant.
 
-## Fme
+## Subtask a
 
 If $\mathbf{\dot{r}}$ is parallel to $\mathbf{r}$, then
-{{< math >}}
 $$
 \mathbf{\ddot{r}} = \mathbf{0}.
 $$
-{{< math >}}
 This gives us 
-{{< math >}}
 $$
 \mathbf{\dot{r}} = v\mathbf{\hat{r}}.
 $$
-{{< math >}}
 By integrating equation (2), we will get the trajectory is 
-{{< math >}}
 $$
 \mathbf{r} = (vt+R)\mathbf{\hat{r}}.
 $$
-{{< math >}}
 
-## Subtask a
+## Subtask b
 
 Taking the derivative of $\mathbf{r} \cdot \mathbf{r}$, we get
-{{< math >}}
 $$
 \frac{\mathrm d}{\mathrm d t}(\mathbf{r} \cdot \mathbf{r}) = 2 \mathbf{r} \cdot \mathbf{\dot{r}}.
 $$
-{{< math >}}
 Also, given 
-{{< math >}}
 $$
 \mathbf{r} \cdot \mathbf{r} = r^2,
 $$
-{{< math >}}
 as well as 
-{{< math >}}
 $$
 r^2 = v^2(t-t_0)^2 + r_0^2,
 $$
-{{< math >}}
 we have
-{{< math >}}
 $$
 \frac{\mathrm d}{\mathrm d t}(\mathbf{r} \cdot \mathbf{r}) = 2v^2(t-t_0).
 $$
-{{< math >}}
 Thus, we get 
-{{< math >}}
 $$
 \mathbf{r} \cdot \mathbf{\dot{r}} = v^2(t-t_0).
 $$
-{{< math >}}
 Considering that
-{{< math >}}
 $$
 |\mathbf{\ddot{r}}| = \lambda rv \sin\theta,
 $$
-{{< math >}}
 and 
-{{< math >}}
 $$
 \mathbf{r} \cdot \mathbf{\dot{r}} = rv \cos\theta,
 $$
-{{< math >}}
 Combining equation (5) and (6), we find 
-{{< math >}}
 $$
 |\mathbf{\ddot{r}}|^2 + (\lambda \mathbf{r} \cdot \mathbf{\dot{r}}) = \lambda^2r^2v^2.
 $$
-{{< math >}}
 By subsituting equation (7) with (3) and (4), we finally get
-{{< math >}}
 $$
 |\mathbf{\ddot{r}}| = \lambda v r_0.
 $$
-{{< math >}}
