@@ -5,6 +5,8 @@ type: book
 ---
 
 ## Solution
+### Subtask a
+### Subtask b
 
 First, we dot product $\mathbf{\dot{r}}$ onto both sides of the given equation, we get 
 {{< math >}}
