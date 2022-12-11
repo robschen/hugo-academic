@@ -5,9 +5,6 @@ type: book
 ---
 
 ## Solution
-### Subtask a
-### Subtask b
-
 First, we dot product $\mathbf{\dot{r}}$ onto both sides of the given equation, we get 
 {{< math >}}
 $$
@@ -34,6 +31,8 @@ $$
 $$
 {{< math >}}
 which means the changing of acceleration is perpendicular to the acceleration. Therefore $|\mathbf{\ddot{r}}| = a$ is also a constant.
+### Subtask a
+### Subtask b
 
 
 ### Subtask a
