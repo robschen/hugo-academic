@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Jinkun Chen
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jinkun
+last_name: Chen
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
