@@ -7,9 +7,7 @@ type: book
 ## Solution
 First, we dot product $\mathbf{\dot{r}}$ onto both sides of the given equation, we get 
 $$
-\begin{equation}
-\mathbf{\ddot{r}} \cdot \mathbf{\dot{r}} = 0.
-\end{equation}
+\mathbf{\ddot{r}} \cdot \mathbf{\dot{r}} = 0. \tag{1}
 $$
 which means the acceleration is perpendicular to the velocity. Therefore $|\mathbf{\dot{r}}| = v$ is a constant.
 
@@ -35,7 +33,7 @@ $$
 $$
 This gives us 
 $$
-\mathbf{\dot{r}} = v\mathbf{\hat{r}}.
+\mathbf{\dot{r}} = v\mathbf{\hat{r}}. \tag{2}
 $$
 By integrating equation (2), we will get the trajectory is 
 $$
@@ -54,7 +52,7 @@ $$
 $$
 as well as 
 $$
-r^2 = v^2(t-t_0)^2 + r_0^2,
+r^2 = v^2(t-t_0)^2 + r_0^2, \tag{3}
 $$
 we have
 $$
@@ -62,19 +60,19 @@ $$
 $$
 Thus, we get 
 $$
-\mathbf{r} \cdot \mathbf{\dot{r}} = v^2(t-t_0).
+\mathbf{r} \cdot \mathbf{\dot{r}} = v^2(t-t_0). \tag{4}
 $$
 Considering that
 $$
-|\mathbf{\ddot{r}}| = \lambda rv \sin\theta,
+|\mathbf{\ddot{r}}| = \lambda rv \sin\theta, \tag{5}
 $$
 and 
 $$
-\mathbf{r} \cdot \mathbf{\dot{r}} = rv \cos\theta,
+\mathbf{r} \cdot \mathbf{\dot{r}} = rv \cos\theta, \tag{6}
 $$
 Combining equation (5) and (6), we find 
 $$
-|\mathbf{\ddot{r}}|^2 + (\lambda \mathbf{r} \cdot \mathbf{\dot{r}}) = \lambda^2r^2v^2.
+|\mathbf{\ddot{r}}|^2 + (\lambda \mathbf{r} \cdot \mathbf{\dot{r}}) = \lambda^2r^2v^2. \tag{7}
 $$
 By subsituting equation (7) with (3) and (4), we finally get
 $$
