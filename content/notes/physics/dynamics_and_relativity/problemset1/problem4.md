@@ -7,7 +7,9 @@ type: book
 ## Solution
 First, we dot product $\mathbf{\dot{r}}$ onto both sides of the given equation, we get 
 $$
+\begin{equation}
 \mathbf{\ddot{r}} \cdot \mathbf{\dot{r}} = 0.
+\end{equation}
 $$
 which means the acceleration is perpendicular to the velocity. Therefore $|\mathbf{\dot{r}}| = v$ is a constant.
 
