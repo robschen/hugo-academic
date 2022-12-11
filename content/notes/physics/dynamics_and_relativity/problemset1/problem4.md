@@ -33,6 +33,7 @@ $$
 {{< math >}}
 which means the changing of acceleration is perpendicular to the acceleration. Therefore $|\mathbf{\ddot{r}}| = a$ is also a constant.
 
+
 ### Subtask a
 
 If $\mathbf{\dot{r}}$ is parallel to $\mathbf{r}$, then
@@ -53,6 +54,7 @@ $$
 \mathbf{r} = (vt+R)\mathbf{\hat{r}}.
 $$
 {{< math >}}
+
 
 ### Subtask b
 
