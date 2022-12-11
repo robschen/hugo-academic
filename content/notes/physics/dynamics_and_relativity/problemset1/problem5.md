@@ -1,6 +1,6 @@
 ---
 title: Problem 5
-summary: test if the summary appear
+summary: A particle of mass $m$, charge $q$ and position $\mathbf{x}$
 type: book
 ---
 
@@ -52,10 +52,10 @@ $$
 x(0) &= -A\sin\theta\sin\varphi \\
 y(0) &= A\cos\theta\sin\varphi \\
 z(0) &= A\cos\varphi
-\end{align*}
+\end{align*},
 $$
 {{< math >}}
-, which means that the projection of the initial position vector $\mathbf{x}(0)$ on the $xy$-plane should be perpendicular to the magnetic field $\mathbf{B}$.
+which means that the projection of the initial position vector $\mathbf{x}(0)$ on the $xy$-plane should be perpendicular to the magnetic field $\mathbf{B}$.
 
 We choose $x$-axis the same direction as $\mathbf{B}$, and to simplify the problem, we choose $a=0$ and $\varphi = 0$, then we find that 
 {{< math >}}
